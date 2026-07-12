@@ -1,0 +1,2 @@
+C:\Users\mk-ki\Desktop\TiberianSun-Windows-x64-Standalone\dist\windows\TiberianSunInstaller.pdb
+C:\Users\mk-ki\Desktop\TiberianSun-Windows-x64-Standalone\dist\windows\TiberianSunInstaller.exe

@@ -1,0 +1,10 @@
+Cursors:
+	cursor.png:
+		default:
+			Start: 0
+			X: -5
+			Y: -8
+		world:
+			Start: 0
+			X: -5
+			Y: -8
