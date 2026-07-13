@@ -377,7 +377,7 @@ SCRIN:
 	Armor:
 		Type: Light
 	RevealsShroud:
-		Range: 2c0
+		Range: 8c0
 		Type: CenterPosition
 	Armament:
 		Weapon: Proton

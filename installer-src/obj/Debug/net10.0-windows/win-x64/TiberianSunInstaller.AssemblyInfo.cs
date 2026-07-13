@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiberianSunInstaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d6f4d8f459008ef2103fdf939f6dfa4350b2ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6c6471434e338e4018dafe8a165eec2407ba28f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiberianSunInstaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiberianSunInstaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
